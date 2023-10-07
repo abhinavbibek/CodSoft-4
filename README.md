@@ -12,3 +12,8 @@ The Rock-Paper-Scissors game is a classic hand game played against the computer
    - Choose your move (rock, paper, or scissors)
    - Play the game against the computer
    - View the result of the game
+
+## Author
+Bibek Bhandari
+GitHub:https://github.com/abhinavbibek
+
